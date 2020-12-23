@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">newsapi</string>
+    <string name="release_date">Дата: </string>
+    <string name="description">Описание</string>
+    <string name="readOnBrowser">Читать в браузере</string>
+</resources>
